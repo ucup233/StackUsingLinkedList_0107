@@ -21,6 +21,6 @@ public:
 	}
 
 	int push(int value) {
-	
+		node* newNode = new node();
 	}
 };
